@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "hostingPlanName": {
-      "value": "PaddyHostPlan"
+      "value": "PaddyHostPlan1"
     },
     "Webapplication2PackageFolder": { "value": "WebApplication2" },
     "WebApplication2PackageFileName": {"value": "package.zip"}
